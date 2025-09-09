@@ -1,0 +1,11 @@
+h1 {
+  color: rgb(27, 25, 25);
+  text-align: center;
+  te
+}
+
+#page-container {
+  width: 760px;
+  margin: auto;
+  background: red;
+}
