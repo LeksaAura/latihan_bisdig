@@ -1,5 +1,5 @@
 h1 {
-  color: red;
+  color: white;
   text-align: center;
   font size: 8pt
 }
@@ -7,7 +7,7 @@ h1 {
 #page-container {
     width: 760px;
     margin: auto;
-    background: red;
+    background: white;
 }
 
 #header {
