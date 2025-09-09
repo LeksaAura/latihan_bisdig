@@ -1,11 +1,14 @@
-h1 {
-  color: rgb(27, 25, 25);
-  text-align: center;
-  te
-}
-
-#page-container {
-  width: 760px;
-  margin: auto;
+#main nav {
   background: red;
+  }
+#header {
+background: blue;
+height: 150px;
+}
+#content {
+background: green;
+}
+#footer {
+background: orange;
+height: 66px;
 }
